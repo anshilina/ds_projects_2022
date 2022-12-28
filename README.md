@@ -1,6 +1,6 @@
 # Projects 2022
 
-# These projects were completed during training at Yandex.Practicum, course "Specialist in Data Science"
+# These projects were completed during Yandex.Practicum course "Specialist in Data Science"
 
 | Name |  Description | Libraries         |
 | :------------------------ | :------------------------ |:------------------------ |
@@ -13,3 +13,28 @@
 |[Protection of the personal information provided by customers](https://github.com/anshilina/ds_projects_2022/tree/main/protection_of_customers_personal_information)|We have to select and use data transformation method so that 1) it will be difficult to restore personal information and 2) the quality of the model does not change.|*pandas, numpy, random, seaborn, matplotlib, IPython, sklearn*|
 |[Exploring sales advertising in the housing market in St. Petersburg](https://github.com/anshilina/ds_projects_2022/tree/main/apartments_sales) |In this project, data provided by the Yandex.Realty service is studied. There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. We need to establish parameters that will be used in automated system that monitors outliers and fraudulent activity.|*re, pandas, numpy, statistics, seaborn, IPython, matplotlib*|
 |[Study of debtors' reliability](https://github.com/anshilina/ds_projects_2022/tree/main/debtors_reliability)|In this project, we examine the relationship between income, work experience, number of family members, and other characteristics of borrowers and their ability to return loans on time.|*pandas, seaborn, matplotlib, numpy*|
+
+# Проекты 2022
+
+Данные проекты были реализованы в рамках курса Яндекс.Практикум "Специалист по Вata Science"
+
+| Название |  Описание | Библиотеки         |
+| :------------------------ | :------------------------ |:------------------------ |
+|Моделирование процесса восстановления золота из руды|Необходимо подготовить прототип модели машинного обучения для компании, разрабатывающей решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Будем использовать данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.|*pandas, numpy, IPython, matplotlib, seaborn, sklearn*|
+|Выбор локации для нефтяной скважины|Нефтяной компании необходимо решить, где бурить новую скважину. Есть данные по пробам нефти в трёх регионах: в каждом 10 000 месторождений, где измерили качество нефти и объём её запасов. Для принятия решения, какой регион выбрать, где добыча принесёт наибольшую прибыль, будет построена модель машинного обучения. Возможная прибыль и риски будут проанализированы техникой *Bootstrap.*| *pandas, numpy, sklearn, IPython, matplotlib, seaborn*|
+|Прогнозирование оттока клиентов из банка|Из банка каждый месяц стали уходить клиенты. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Поэтому наша **цель**: спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мы будем решать задачу классификации.|*pandas, random, numpy, sklearn, imblearn, matplotlib, seaborn*|
+|Рекламная кампания для магазина компьютерных игр|В проекте используются открытые данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Необходимо проанализировать данные, определить что определяет успешность игры, выявить потенциально популярный продукт и разработать рекомендации для рекламной кампании магазина.|*pandas, scipy, IPython, matplotlib, seaborn*|
+|Рекомендация тарифов сотовой связи|В нашем распоряжении данные о поведении клиентов, которые уже перешли на мобильный тариф «Смарт» или «Ультра». Нужно построить модель для задачи классификации, которая будет подбирать подходящий тариф для новых клиентов.|*pandas, IPython, seaborn, matplotlib, sklearn*|
+|Исследование тарифов сотовой связи|Клиентам федерального оператора сотовой связи предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.|*numpy, pandas, IPython, matplotlib, seaborn, scipy*|
+|Защита персональных данных клиентов| Нужно защитить данные клиентов страховой компании Необходимо разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, а также обосновать корректность его работы.||*pandas, numpy, random, seaborn, matplotlib, IPython, sklearn*|
+| Исследование объявлений о продаже квартир|В проекте исследуются данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. **Цель исследования** – определение рыночной стоимости объектов недвижимости. В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность.|*re, pandas, numpy, statistics, seaborn, IPython, matplotlib*|
+|Исследование надежности заемщиков|В проекте рассматривается взаимосвязь между доходом, стажем работы, количеством членов семьи и проч. характеристиками заёмщиков и их способностью возвращать заёмы в срок.|*pandas, seaborn, matplotlib, numpy*|
+
+
+
+
+
+
+
+
+
