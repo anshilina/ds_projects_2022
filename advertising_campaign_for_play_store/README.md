@@ -2,7 +2,7 @@
 
 ## Data description
 
-In this research, we use open data on game sales, users' and experts' ratings, genres and platforms (for example, Xbox or PlayStation). We need to analyze data, determine tha fectors of the game success, identify a potentially popular product and develop recommendations for the advertising campaign of the game store.
+In this research, we use open data on game sales, users' and experts' ratings, genres and platforms (for example, Xbox or PlayStation). We need to analyze data, determine the factors of the game success, identify a potentially popular product and develop recommendations for the advertising campaign of the game store.
 
 **The purpose of the study:** to identify factors that determine the success of the game.
 
