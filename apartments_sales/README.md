@@ -1,6 +1,6 @@
 # Exploring sales advertising in the housing market in St. Petersburg 
 
-In this project, data provided by the Yandex.Realty service is studied. There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to determine the market value of real estate objects. We need to establish parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
+In this project, data provided by the Yandex.Realty service is studied. There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to establish parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
 
 - To preprocess data: identify and drop duplicates; study and fill in the missing values; change the data type if necessary; drop outliers
 - To add new variables needed to build an automated system
