@@ -1,6 +1,6 @@
 # Projects 2022
 
-# These projects were completed during Yandex.Practicum course "Specialist in Data Science"
+## These projects were completed during Yandex.Practicum course "Specialist in Data Science"
 
 | Name |  Description | Libraries         |
 | :------------------------ | :------------------------ |:------------------------ |
@@ -17,7 +17,7 @@
 
 # Проекты 2022
 
-Данные проекты были реализованы в рамках курса Яндекс.Практикум "Специалист по Data Science"
+## Данные проекты были реализованы в рамках курса Яндекс.Практикум "Специалист по Data Science"
 
 | Название |  Описание | Библиотеки         |
 | :------------------------ | :------------------------ |:------------------------ |
