@@ -2,7 +2,7 @@
 
 ## Data description
 
-There are loss of clients in "Beta Bank". According to bank data, it is cheaper to keep current customers than to attract new ones. Therefore, our **goal** is to predict whether the client will leave the bank in the near future or not. Using the data on customers we will classify them on those who will leave and will not.
+There are loss of bank clients. According to bank data, it is cheaper to keep current customers than to attract new ones. Therefore, our **goal** is to predict whether the client will leave the bank in the near future or not. Using the data on customers we will classify them on those who will leave and will not.
 
 We have to fit classification model and get at least 0.59 of the F1-score. In addition, we will check AUC-ROC.
 
