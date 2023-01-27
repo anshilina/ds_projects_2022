@@ -52,7 +52,7 @@ The *text* column contains the text of the comment, and *toxic* is the target (1
 
 Построим модель со значением метрики качества *F1* не меньше 0.75. 
 
-**Признаки*
+**Признаки**
 
 Столбец *text* содержит текст комментария, а *toxic* — целевой признак.
 
