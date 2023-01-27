@@ -1,4 +1,4 @@
-# Projects 2022
+# Projects 2022-2023
 
 ## These projects were completed during Yandex.Practicum course "Specialist in Data Science"
 
