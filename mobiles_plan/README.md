@@ -1,6 +1,6 @@
 # Mobile plans research
 
-Using data on mobile tariffs we need to find out which tariff is more profitable. In this research, the **goal** is to conduct a comparison analysis of two tariffs on a small sample of customers.
+Using data on mobile tariffs we need to find out which one is more profitable. In this research, the **goal** is to conduct a comparison analysis of two tariffs on a small sample of customers.
 
 There is data on 500 users: name, location, tariff they use, number of calls and messages they used in 2018.
 
