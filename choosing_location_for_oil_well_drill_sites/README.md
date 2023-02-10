@@ -1,8 +1,6 @@
 # Choosing region for oil well drill site
 
-Oil company needs to decide where to drill a new well. We have to chose the best region.
-
-There is data on oil samples in three regions: 10,000 observations in each region, where the quality of oil and the volume of its reserves were measured. To choose region, where mining will be the most profitable, we will use ML models. Profit and risks will be analyzed using *bootstrap sampling*.
+We have to chose the best region for oil company to drill a new well. There is data on oil samples in three regions: 10,000 observations in each region, where the quality of oil and the volume of its reserves were measured. To choose region, where mining will be the most profitable, we will use ML models. Profit and risks will be analyzed using *bootstrap sampling*.
 
 ## Libraries
 
