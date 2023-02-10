@@ -1,6 +1,6 @@
 # Research on the recommendation of mobile tariffs
 
-We have data on customers who have already switched to "Smart" or "Ultra" mobile plan. We need to model the classification of tariff. Our model should select the most suitable tariff using the users' characteristics.
+We have data on customers and their mobile plan. We will build ML model to classify tariff using customers' data.
 
 **Goal:** Select the model with the highest *accuracy* (0.75).
 
@@ -29,7 +29,7 @@ Dependent variable:
 
 # Рекомендация тарифов сотовой связи
 
-В нашем распоряжении данные о поведении клиентов, которые уже перешли на мобильный тариф «Смарт» или «Ультра». Нужно построить модель для задачи классификации, которая будет подбирать подходящий тариф для новых клиентов.
+В нашем распоряжении данные о клиентах мобильных тарифов. Нужно построить модель для задачи классификации, которая будет подбирать подходящий тариф для новых клиентов.
 
 **Цель:** постройте модель с максимально большим значением *accuracy* (0.75).
 
