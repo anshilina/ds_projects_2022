@@ -1,8 +1,6 @@
 # Mobile plans research
 
-The clients of the federal mobile operator are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff is more profitable.
-
-**Goal:** to conduct a comparison analysis of two tariffs on a small sample of customers.
+Using data on mobile tariffs we need to find out which tariff is more profitable. In this research, the **goal** is to conduct a comparison analysis of two tariffs on a small sample of customers.
 
 There is data on 500 users: name, location, tariff they use, number of calls and messages they used in 2018.
 
@@ -79,9 +77,7 @@ Table `tariffs` - information about tariffs:
 
 # Исследование тарифов сотовой связи
 
-Клиентам федерального оператора сотовой связи предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.
-
-**Цель:** провести предварительный анализ тарифов на небольшой выборке клиентов. 
+Необходимо проанализировать данные о клиентах и тарифах сотовой связи, которые они используют, чтобы понять, какой тариф приносит больше денег. **Цель:** провести предварительный анализ тарифов на небольшой выборке клиентов. 
 
 Есть данные 500 пользователей: кто они, откуда, каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018-й год. 
 
