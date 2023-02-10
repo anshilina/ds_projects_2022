@@ -2,7 +2,7 @@
 
 ## Data description
 
-Bank is losing customers. According to bank data, it is cheaper to keep current customers than to attract new ones. Therefore, our **goal** is to predict whether the client will leave the bank in the near future or not. Using the data on customers we will classify them on those who will leave and will not.
+In this research, the **goal** is to predict whether the client will leave the bank in the near future or not. Using the data on customers we will classify them on those who will leave and will not.
 
 We have to fit classification model and get at least 0.59 of the F1-score. In addition, we will check AUC-ROC.
 
@@ -48,9 +48,9 @@ Data access: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modelin
 
 ## Описание данных
 
-Из банка каждый месяц стали уходить клиенты. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых. Поэтому наша **цель**: спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мы будем решать задачу классификации.
+**Цель** данного проекта: спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мы будем решать задачу классификации. Доступны данные о поведении клиентов и расторжении договоров с банком. 
 
-В доступе исторические данные о поведении клиентов и расторжении договоров с банком. Необходимо построить предсказательную модель с предельно большим значением F1-меры (не менее 0.59). В качестве дополнительной проверки измеряется AUC-ROC. 
+Необходимо построить предсказательную модель с предельно большим значением F1-меры (не менее 0.59). В качестве дополнительной проверки измеряется AUC-ROC. 
 
 Ниже представлены неизвестные переменные:
 
