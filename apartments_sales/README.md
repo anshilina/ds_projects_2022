@@ -1,6 +1,6 @@
 # Exploring sales advertising in the housing market in St. Petersburg 
 
-In this project, data provided by the Yandex.Realty service is studied. There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to establish parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
+There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to establish parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
 
 - To preprocess data: identify and drop duplicates; study and fill in the missing values; change the data type if necessary; drop outliers
 - To add new variables needed to build an automated system
@@ -10,7 +10,7 @@ In this project, data provided by the Yandex.Realty service is studied. There ar
 - To identify the locations with the highest and lowest cost per meter squared
 - To determine relationship between price and distance from city center (in St. Petersburg)
 
-There are two types of data available. The first one is the data provided by users (apartments owners or agents) when posting an ad. The second one (for example, distance from the city center, airport, nearest parks and pounds) was automatically collected using maps. More detailed description of the variables is provided in the section **Data description**.
+Detailed description of the variables is provided in the section **Data description**.
 
 ## Data description
 
@@ -55,7 +55,7 @@ There are two types of data available. The first one is the data provided by use
 
 #  Исследование объявлений о продаже квартир
 
-В проекте исследуются данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность. В проекте будут решены следующие **задачи**:
+В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность. В проекте будут решены следующие **задачи**:
 
 - Предобработать данные сервиса: выявить и удалить дубликаты; исследовать и заполнить пропуски; изменить тип данных при необходимости; устранить редкие и выбивающиеся значения;
 - Добавить новые переменные, необходимые для построения автоматизированной системы;
@@ -65,7 +65,7 @@ There are two types of data available. The first one is the data provided by use
 - Определить населенные пункты с самой высокой и самой низкой стоимостью квадратного метра;
 - Определить среднюю стоимость каждого км от центра (в Санкт-Петербурге).
 
-В массиве данных доступны два вида данных. Ряд из них был внесен пользователями при размещении объявления. Оставшиеся данные (например, расстояние до центра, аэропорта, ближайшего парка и водоёма) были получены автоматически на основе картографических данных. Более подробное описание переменных представлено в разделе **Описание данных**.
+Подробное описание переменных представлено в разделе **Описание данных**.
 
 ## Описание данных
 
