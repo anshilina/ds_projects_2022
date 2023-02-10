@@ -1,8 +1,8 @@
 # Modeling the process of gold mining
 
-We will build the best ML model that predicts the coefficient of gold that could be recovered from gold ore. We will use input and output data parameters collected at different stages of gold mining. The name of variable consists of the stage (rougher, cleaner, final), materials characteristics (input/output or feed), metal name (Au, Ag, Pb, etc.).
+We need to choose the best ML model that will predict the coefficient of gold that could be recovered from gold ore. We will use input and output data parameters collected at different stages of gold mining. The name of variable consists of the stage (rougher, cleaner, final), materials characteristics (input/output or feed), metal name (Au, Ag, Pb, etc.).
 
-The model will help to optimize production and not to launch an enterprise with unprofitable characteristics.
+This model will help to optimize production and not to launch an enterprise with unprofitable characteristics.
 
 **Goal:** To model the process of recovering gold from gold ore.
 
