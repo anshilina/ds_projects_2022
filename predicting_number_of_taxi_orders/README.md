@@ -2,7 +2,7 @@
 
 ## Data description
 
-Taxi service company provided historical data on taxi orders at airports in 2018. In order to attract more drivers during the peak period, we must **predict the number of taxi orders for the next hour**. We need to select the best ML model for this purpose.
+We need to build ML model that **predicts the number of taxi orders for the next hour**. In this project, we will process and analyse time-series data.
 
 The *RMSE* score on the test sample should not exceed 48.
 
@@ -40,7 +40,7 @@ The number of orders is in the `num_orders` column.
 
 ## Описание данных
 
-Компания, предоставляющая сервис такси, направила исторические данные о заказах такси в аэропортах за 2018 год. Чтобы привлекать больше водителей в период пиковой нагрузки, мы должны **спрогнозировать количество заказов такси на следующий час**. Нам необходимо построить модель для такого предсказания.
+В этом проекте мы выбираем модель машинного обучения, которая будет **прогнозировать количество заказов такси на следующий час**. Мы будем обрабатывать и анализировать временные ряды. 
 
 Значение метрики *RMSE* на тестовой выборке должно быть не больше 48.
 
