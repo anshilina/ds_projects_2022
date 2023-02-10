@@ -1,6 +1,6 @@
 # Research on the recommendation of mobile tariffs
 
-We have data on customers and their mobile plan. We will build ML model to classify tariff using customers' data.
+We have data on customers and their mobile plan. We will build ML model to classify tariffs using customers' data.
 
 **Goal:** Select the model with the highest *accuracy* (0.75).
 
