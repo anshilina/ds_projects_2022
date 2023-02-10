@@ -1,6 +1,6 @@
 # Exploring sales advertising in the housing market in St. Petersburg 
 
-There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to establish parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
+There are ads of apartments for sale in St. Petersburg and neighboring settlements over several years. **The purpose** is to select parameters that will be used in automated system that monitors outliers and fraudulent activity. The project will solve the following **tasks**:
 
 - To preprocess data: identify and drop duplicates; study and fill in the missing values; change the data type if necessary; drop outliers
 - To add new variables needed to build an automated system
