@@ -1,6 +1,6 @@
 # Predicting car price
 
-A car dealer is developing an app to attract new customers. This application should show the market value of the car. The following data is available: technical characteristics, configurations and prices of cars. Our **goal**: to choose the best model for predicting car price based on its characteristics.
+We need to build a ML model that will predict the market value of the car. The following data is available: technical characteristics, configurations and prices of cars. Our **goal**: to choose the best model for predicting car price based on its characteristics.
 
 We should account for:
 
@@ -55,7 +55,7 @@ We should account for:
 
 # Определение стоимости автомобилей
 
-Сервис по продаже автомобилей разрабатывает приложение для привлечения новых клиентов. Это приложение должно показывать рыночную стоимость автомобиля. В доступе следующие данные: технические характеристики, комплектации и цены автомобилей. Наша цель: выбрать модель для предсказания стоимости авто по его характеристикам. 
+Нам необходимо обучить модель машинного обучения, которая будет предсказывать рыночную стоимость автомобиля. В доступе следующие данные: технические характеристики, комплектации и цены автомобилей. Наша цель: выбрать модель для предсказания стоимости авто по его характеристикам. 
 
 Критерии заказчика:
 
