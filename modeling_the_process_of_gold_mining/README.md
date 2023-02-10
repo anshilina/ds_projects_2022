@@ -1,6 +1,6 @@
 # Modeling the process of gold mining
 
-We will build the best ML model for a company that develop effective strategies for industrial enterprises. The model should predict the coefficient of gold that could be recovered from gold ore. We will use input and output data parameters collected at different stages of gold mining. The name of variable consists of the stage (rougher, cleaner, final), materials characteristics (input/output or feed), metal name (Au, Ag, Pb, etc.).
+We will build the best ML model that predicts the coefficient of gold that could be recovered from gold ore. We will use input and output data parameters collected at different stages of gold mining. The name of variable consists of the stage (rougher, cleaner, final), materials characteristics (input/output or feed), metal name (Au, Ag, Pb, etc.).
 
 The model will help to optimize production and not to launch an enterprise with unprofitable characteristics.
 
@@ -28,9 +28,7 @@ The model will help to optimize production and not to launch an enterprise with 
 
 # Моделирование процесса восстановления золота из руды
 
-Необходимо подготовить прототип модели машинного обучения для компании, разрабатывающей решения для эффективной работы промышленных предприятий.
-
-Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Будем использовать данные с параметрами добычи и очистки. 
+Необходимо подготовить прототип модели машинного обучения, которая будет предсказать коэффициент восстановления золота из золотосодержащей руды. Будем использовать данные с параметрами добычи и очистки. 
 
 Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
 
