@@ -2,7 +2,7 @@
 
 ## Data description
 
-In this project, we build a ML model that detect toxic comments. Our **goal**: to find the best ML model that classifies comments as positive or negative (toxic). We have a dataset with where comments were labeled as toxic or not.
+In this project, we build a ML model that detects toxic comments. Our **goal**: to find the best ML model that classifies comments as positive or negative (toxic). We have a dataset where comments were labeled as toxic or not.
 
 Let's build a model with the resulting quality metric *F1* not less than 0.75.
 
