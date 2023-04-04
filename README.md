@@ -1,4 +1,4 @@
-# Projects 2022-2023
+# Projects 2022
 
 ## These projects were completed during Yandex.Practicum course "Specialist in Data Science"
 
@@ -37,12 +37,3 @@
 |[Защита персональных данных клиентов](https://github.com/anshilina/ds_projects_2022/tree/main/protection_of_customers_personal_information)| Нужно защитить данные клиентов страховой компании Необходимо разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию, а также обосновать корректность его работы.|*pandas, numpy, random, seaborn, matplotlib, IPython, sklearn*|
 | [Исследование объявлений о продаже квартир](https://github.com/anshilina/ds_projects_2022/tree/main/apartments_sales)|В рамках данного проекта необходимо установить параметры, которые позволят построить автоматизированную систему, отслеживающую аномалии и мошенническую деятельность.|*re, pandas, numpy, statistics, seaborn, IPython, matplotlib*|
 |[Исследование надежности заемщиков](https://github.com/anshilina/ds_projects_2022/tree/main/debtors_reliability)|В проекте рассматривается взаимосвязь между доходом, стажем работы, количеством членов семьи и проч. характеристиками заёмщиков и их способностью возвращать заёмы в срок.|*pandas, seaborn, matplotlib, numpy*|
-
-
-
-
-
-
-
-
-
